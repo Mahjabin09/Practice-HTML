@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+    background:linear-gradient(skyblue ,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1{
+    color:rgb(26, 23, 189);
+    font-family:"Roman";
+    font-style:italic;
+    text-align: center;
+    text-decoration:underline;
+    font-size: 40px;
+    font-weight: 700;
+
+
+    border-style:outset;
+    border-width: 5px;
+    border-color:rgb(107, 0, 128);
+    border-radius: 10px;
+    padding:5px;
+
+
+}
+#li1{
+    color:black
+}
+.odd{
+    color:black
+}
